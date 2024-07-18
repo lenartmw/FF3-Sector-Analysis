@@ -25,7 +25,7 @@ df2 = df2.dropna()
 df2.to_csv('sectorsdata.csv', index=False)
 ```
 
-The Fama French Three Factors data was downloaded from [the Kenneth R. French Data Library].
+The Fama French Three Factors data was downloaded from [the Kenneth R. French Data Library]. <br>
 The economic cycles' dates were sourced from [NBER].
 
 [1]: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html            "the Kenneth R. French Data Library"
