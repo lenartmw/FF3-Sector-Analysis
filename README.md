@@ -1,14 +1,14 @@
 # FF3-Sector-Analysis
 The project demonstrates how the Fama French Three Factor model alphas of three selected sectors change throughout the business cycle
 
-Markup :  # Sectors #
+# Sectors #
 
 The three sectors include:
 * Technology Select Sector SPDR Fund (XLK)
 * Health Care Select Sector SPDR Fund (XLV)
 * Financial Select Sector SPDR Fund (XLF)
 
-Markup :  # Data #
+# Data #
 The prices and daily returns of the funds were obtained and calculated as follows:
 ```ruby
 import datetime
