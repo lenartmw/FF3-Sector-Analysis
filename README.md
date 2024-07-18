@@ -4,9 +4,9 @@ The project demonstrates how the Fama French Three Factor model alphas of three 
 Markup :  # Sectors #
 
 The three sectors include:
- Markup : * Technology Select Sector SPDR Fund (XLK)
- Markup : * Health Care Select Sector SPDR Fund (XLV)
- Markup : * Financial Select Sector SPDR Fund (XLF)
+* Technology Select Sector SPDR Fund (XLK)
+* Health Care Select Sector SPDR Fund (XLV)
+* Financial Select Sector SPDR Fund (XLF)
 
 Markup :  # Data #
 The prices and daily returns of the funds were obtained and calculated as follows:
